@@ -1,0 +1,65 @@
+body{
+    color: rgb(24, 24, 21);
+}
+hr{
+    border:3px solid black; 
+}
+h1 {
+    font-weight: 900;
+}
+.intern {
+    font-weight: 900;
+
+}
+.in1{
+color: red;
+}
+.in2{
+   color: green; 
+}
+.in3{
+    color: blueviolet;
+}
+.ts1 {
+    color: pink;
+}
+.ts2 {
+    color:brown;
+}
+.ts3 {
+    color:aqua;
+}
+.ts4 {
+    color:purple;
+}
+.ts5 {
+    color:green;
+}
+p{
+    color: green;
+}
+.career{
+    color: purple;
+}
+.be{
+color: blue;
+}
+.clg{
+color: brown;
+}
+.dip{
+    color:chartreuse;
+
+}
+.p1 {
+    color:cornflowerblue;
+}
+.p2 {
+    color: rgb(153, 51, 51);
+}
+.ss{
+    color: mediumslateblue;
+}
+.cer{
+    color:rgb(145, 87, 15);
+}
